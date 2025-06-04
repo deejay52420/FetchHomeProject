@@ -3,10 +3,10 @@
 ### Summary: Include screen shots or a video of your app highlighting its features
 
 ## Screenshot
-![homescreen](Asset/homescreen.png) ![errorscreen](Asset/errorscreen.png)
+![homescreen](Assets/homescreen.png) ![errorscreen](Assets/errorscreen.png)
 
 ## GIF
-![fetch app](Asset/app.gif)
+![fetch app](Assets/app.gif)
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
