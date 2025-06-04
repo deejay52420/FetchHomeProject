@@ -28,7 +28,6 @@ final class RecipeListViewModel: ObservableObject {
                     isAPIError = error
                 }
             } catch {
-                print("Error: \(error)")
                 isAPIError = APIError.unknown(error)
             }
             isLoading = false

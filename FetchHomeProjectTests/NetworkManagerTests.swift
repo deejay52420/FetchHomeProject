@@ -1,9 +1,3 @@
-//
-//  NetworkManagerTests.swift
-//  FetchHomeProjectTests
-//
-//  Created by Derrick Turner on 6/2/25.
-//
 
 import XCTest
 @testable import FetchHomeProject
